@@ -1,0 +1,23 @@
+{
+    "name": "vohof/manok",
+    "description": "",
+    "authors": [
+        {
+            "name": "Cyrus David",
+            "email": "david@jcyr.us"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Vohof\\Manok\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
