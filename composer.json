@@ -1,6 +1,7 @@
 {
     "name": "vohof/manok",
     "description": "",
+    "keywords": ["laravel", "headers"],
     "authors": [
         {
             "name": "Cyrus David",
